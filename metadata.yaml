@@ -1,0 +1,29 @@
+_repo: Jacobean-Embroidery--Its-Forms-and-Fillings-Including-Late-Tudor_18971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fitzwilliam, Ada Wentworth
+    gutenberg_agent_id: '8380'
+    url: http://www.gutenberg.org/2009/agents/8380
+  - agent_name: Hands, A. F. Morris
+    gutenberg_agent_id: '8381'
+    url: http://www.gutenberg.org/2009/agents/8381
+description: Historical overview of Jacobean embroidery and description of the plates
+  featuring examples thereof presented in a separate volume.
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2006-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Embroidery'
+- !lcc 'NK'
+title: 'Jacobean Embroidery: Its Forms and Fillings, Including Late Tudor'
+url: http://www.gutenberg.org/ebooks/18971
