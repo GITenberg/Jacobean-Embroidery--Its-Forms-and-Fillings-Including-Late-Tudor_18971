@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8381
 description: Historical overview of Jacobean embroidery and description of the plates
   featuring examples thereof presented in a separate volume.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18971#Jacobean-Embroidery--Its-Forms-and-Fillings-Including-Late-Tudor
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2006-08-02'
 gutenberg_type: Text
